@@ -8,8 +8,8 @@
     transition: 0.2s;
 }
 .banner img{
-  height: 200px;
-  width: auto;
+  height: auto;
+  width: 350px;
   padding: 3vh;
   margin-bottom: -2vh;
 }
